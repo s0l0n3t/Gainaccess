@@ -5,7 +5,7 @@
 
 ##### Why we use Arduino Leonard ?
 
-Because we need to access on keyboard so it depends on Arduino leonard.Also this project is very simple. You can design another creation algorithm
+Because we need to access on keyboard so it depends on Arduino leonard. Also this project is very simple. You can design another creation algorithm
 
 <!-- Downloads total -->
 
